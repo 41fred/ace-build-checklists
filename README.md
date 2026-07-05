@@ -1,5 +1,7 @@
 # Build Checklists for Claude Code
 
+![Build with Claude, without skipping steps — Build Checklists for Claude Code](assets/social-preview.png)
+
 A four-stage pipeline for building features without wasting effort on bad ideas, vague designs, or rushed execution.
 
 ```
