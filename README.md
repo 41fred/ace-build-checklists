@@ -1,4 +1,4 @@
-# Ace Build Process
+# Build Checklists for Claude Code
 
 A four-stage pipeline for building features without wasting effort on bad ideas, vague designs, or rushed execution.
 
@@ -88,6 +88,6 @@ MIT. Use it, fork it, ship it. Copyright © 2026 [Alcanah Partners](https://alca
 
 ## Credits
 
-The Ace Build Process is built by **[Alcanah Partners](https://alcanah.co)**, founded by **Alfred Naayem**.
+Build Checklists for Claude Code is built by **[Alcanah Partners](https://alcanah.co)**, founded by **Alfred Naayem**.
 
 Questions, feedback, or stuck on something? Email **alfred@alcanah.co**. Alfred reads everything.
